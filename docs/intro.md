@@ -4,6 +4,4 @@ slug: /
 title: Introduction
 ---
 
-Welcome to TGE's code of conduct! 
-
-This site is developed by lobo#5676. Any problems? DM him.
+The UCGA is made to establish a set of regulations for all Grand Army personnel, clone or not to follow. These directives are to enforce law and order on all Republic Bases.
