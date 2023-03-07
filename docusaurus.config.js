@@ -59,7 +59,6 @@ const config = {
     ],
   ],
 
-  plugins: [require.resolve('docusaurus-lunr-search')],
   
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -109,6 +108,15 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+themes: [
+  [
+    require.resolve("@easyops-cn/docusaurus-search-local"),
+    /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+    ({
+hashed: true,
+docsRouteBasePath: '/', // needs to match routeBasePath of docs
+    }),
+  ],
+],
 };
-
 module.exports = config;
