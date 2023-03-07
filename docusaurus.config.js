@@ -108,15 +108,15 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-themes: [
-  [
-    require.resolve("@easyops-cn/docusaurus-search-local"),
-    /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
-    ({
-hashed: true,
-docsRouteBasePath: '/', // needs to match routeBasePath of docs
-    }),
-  ],
-],
-};
+    themes: [
+      // ... Your other themes.
+      [
+        require.resolve("@easyops-cn/docusaurus-search-local"),
+        /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+        ({
+          hashed: true,
+        }),
+      ],
+    ],
+  };
 module.exports = config;
