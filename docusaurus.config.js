@@ -69,6 +69,14 @@ const config = {
         disableSwitch: true,
         respectPrefersColorScheme: false,
       },
+      announcementBar: {
+        id: 'announcement_bar',
+        content:
+          'This website is under progress, any problems open a github issue or contact lobo#5676',
+        backgroundColor: '#092242',
+        textColor: '#FFFFFF',
+        isCloseable: false,
+      },
       navbar: {
         title: 'TGE COD',
         logo: {
