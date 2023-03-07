@@ -44,6 +44,8 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/coolztge-space/tge-docs/tree/main',
+            showLastUpdateAuthor: true,
+            showLastUpdateTime: true,
         },
         blog: {
           showReadingTime: true,
@@ -69,6 +71,7 @@ const config = {
       },
       navbar: {
         logo: {
+        title: 'TGE COD',
           alt: 'My Site Logo',
           src: 'img/favicon-32x32.png',
         },
