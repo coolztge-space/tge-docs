@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'TGE Code of Conduct',
+  tagline: 'Follow the goddamn rules',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -70,10 +70,9 @@ const config = {
         respectPrefersColorScheme: false,
       },
       navbar: {
-        title: 'My Site',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/favicon-32x32.png',
         },
         items: [
           {
