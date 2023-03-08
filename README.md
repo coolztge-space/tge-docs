@@ -5,4 +5,4 @@ This website is built using [Docusaurus 2](https://docusaurus.io/), a modern sta
 To authorized editors:
 Only edit things with .md
 
-<a href="https://app.netlify.com/sites/tgecodeconduct/deploys"><img src="https://api.netlify.com/api/v1/badges/9e1ff559-4405-4ebe-8718-5e21c0774bc8/deploy-status" alt="Netlify Status"></a>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e0a607c3-b450-405e-8fe2-183fb9a0da98/deploy-status)](https://app.netlify.com/sites/tgecod/deploys)
