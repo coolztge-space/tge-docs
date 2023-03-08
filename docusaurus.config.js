@@ -111,11 +111,14 @@ const config = {
     themes: [
       // ... Your other themes.
       [
+        // @ts-ignore
         require.resolve("@easyops-cn/docusaurus-search-local"),
         /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+        // @ts-ignore
         ({
           hashed: true,
           docsRouteBasePath: '/',
+          blogRouteBasePath: '/blog',
         }),
       ],
     ],
