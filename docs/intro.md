@@ -22,4 +22,4 @@ Copying any part of this website if strictly prohibited and will result in legal
 :::
 
 :::info
-Only the following groups are exempt from the Code of Conduct; <Highlight color="#686868">**HICOM**</Highlight> <Highlight color="#070707"> and **Supreme Chancellor**</Highlight>
+Only the following groups are exempt from the Code of Conduct; <Highlight color="#686868">**HICOM**</Highlight> and <Highlight color="#070707">**Supreme Chancellor**</Highlight>
