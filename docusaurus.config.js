@@ -106,7 +106,7 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
         ],
         copyright: `Copyright © ${new Date().getFullYear()} TGE Code of Conduct, Inc. Built with Docusaurus. Deploys by Netlify.`,
